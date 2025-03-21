@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kanataki-zwei, @Kanataki's second github acc
-- 👀 I’m interested in anything data
-- 🌱 I’m currently learning a bunch of things that am too bored to write here but will soon enough
+- 👋 Hi, I’m @kanataki-zwei, @Kanataki's second github acc.
+- 👀 I’m interested in anything data and code.
+- 🌱 I’m currently learning a bunch of things that I am too bored to write here but will soon enough
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 You can reach me on patrik.gichini@gmail.com
 
